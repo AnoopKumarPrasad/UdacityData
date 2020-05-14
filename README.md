@@ -5,6 +5,7 @@ This repository has all the code and report for my Udacity Data Scientist Nanode
 
 # 1. Introduction
 Library (rpart)
+
 SMART Asthma Alert using IoT and Decision Tree Classifier
 Asthma is a common long-term inflammatory disease of the airways of the lungs.
 Effects include episodes of wheezing, coughing, chest tightness, and shortness of breath.
@@ -34,9 +35,13 @@ I am well - versed with Python and R . Due to library package , I have used R St
 
  a. Omalizumab, the first available antibody for biological treatment of severe asthma: more than a decade of real-life effectiveness, by Corrado Pelaia, Cecilia Calabrese, Rosa Terracciano, Francesco de Blasio, Alessandro Vatrella and Girolamo Pelaia Ther Adv Respir Dis 2018, Vol. 12: 1–16
 DOI: 10.1177/1753466618810192, © The Author(s), 2018.
+
  b. Cook, G. W. (2005). So, your doctor says you have asthma. Asthma Magazine, 10(2), 18–20. doi:10.1016/j.asthmamag.2005.02.003
+ 
  c. New Treatments for Asthma by Jenny Huan, Milind Pansare.
+ 
  d. Thomas M. Why aren’t we doing better in asthma: time for personalised medicine? NPJ Prim Care Respir Med 2015;25:15004.
+ 
  e. Nitric oxide test for asthma by Mayo Clinic .
 
  
